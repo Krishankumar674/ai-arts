@@ -64,7 +64,7 @@ For more details, see the [Judging Criteria](./judging/criteria.md).
 ## ❓ **Questions?**
 
 If you have any questions or need assistance, feel free to:
-- Open an [Issue](https://github.com/your-username/AI-Art-Competition/issues) in this repository.
+- Open an [Issue](https://github.com/Krishankumar674/AI-Art-Competition/issues) in this repository.
 - Contact us at `ai-art-competition@example.com`.
 
 ---
