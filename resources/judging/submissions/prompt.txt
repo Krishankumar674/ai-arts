@@ -1,0 +1,4 @@
+Prompt: [Enter the exact prompt you used to generate your artwork here]
+
+Example:
+Prompt: A futuristic city with flying cars, neon lights, and towering skyscrapers under a starry sky.
