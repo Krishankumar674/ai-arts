@@ -7,7 +7,7 @@ Welcome to the **AI Art Generation Competition**! This competition invites artis
 ## 🚀 **How to Participate**
 
 1. **Set Up Fooocus AI**:
-   - Follow the [Fooocus Setup Guide](./resources/fooocusSetupGuide.md) to install and configure Fooocus AI on your machine.
+   - Follow the [Fooocus Setup Guide](./resources/fooocus_setup_guide.md) to install and configure Fooocus AI on your machine.
 
 2. **Generate Your Artwork**:
    - Use Fooocus AI to create an artwork based on the competition theme (see below).
